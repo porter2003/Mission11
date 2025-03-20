@@ -68,3 +68,4 @@ C:\Users\porte\OneDrive\IS 413\Mission11\backend\Mission11.API\obj\Debug\net8.0\
 C:\Users\porte\OneDrive\IS 413\Mission11\backend\Mission11.API\obj\Debug\net8.0\Mission11.API.pdb
 C:\Users\porte\OneDrive\IS 413\Mission11\backend\Mission11.API\obj\Debug\net8.0\Mission11.API.genruntimeconfig.cache
 C:\Users\porte\OneDrive\IS 413\Mission11\backend\Mission11.API\obj\Debug\net8.0\ref\Mission11.API.dll
+C:\Users\porte\OneDrive\IS 413\Mission11\backend\Mission11.API\obj\Debug\net8.0\Mission11.API.sourcelink.json
